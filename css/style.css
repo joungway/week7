@@ -100,9 +100,8 @@ nav li a:hover:not(.active) {
 /* skip to main content */
 
 a.skip-main {
-    display:none;
-    /* left:-999px;
-    position:absolute; */
+    left:-999px;
+    position:absolute;
     top:auto;
     width:1px;
     height:1px;
@@ -110,7 +109,6 @@ a.skip-main {
     z-index:-999;
 }
 a.skip-main:focus, a.skip-main:active {
-    display:initial;
     color: #fff;
     background-color:#000;
     left: auto;
