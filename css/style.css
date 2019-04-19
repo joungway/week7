@@ -398,7 +398,7 @@ html,body{
 }
 
 .ParallaxContainer {
-  background-image: url('http://www.europan.de/de/02%20Wettbewerbe/Archiv/13%20Europan%2013/01%20Die%20deutschen%20Standorte/Bamberg/03%20Engere%20Wahl/qz882-03.jpg?width=1200');
+  background-image: url('https://static.dezeen.com/uploads/2017/09/splatware-granby-workshop-liverpool-assemble-design_dezeen_hero1.jpg');
   /* Full height */
    height: 500px;
 
@@ -412,7 +412,6 @@ html,body{
 .ContentContainer {
   display: block;
   position: relative;
-  background-color: #FEF5E7;
   z-index: 1;
   margin: 50px;
 }
